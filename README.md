@@ -7,4 +7,4 @@ a Krunker UI Theme inspired by OMORI and tae.
 
 ## License
 
-None
+Tae

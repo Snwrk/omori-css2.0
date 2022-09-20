@@ -5,6 +5,6 @@ a Krunker UI Theme inspired by OMORI and tae.
 
 - Initial Release
 
-##License
+## License
 
 None
